@@ -1,2 +1,4 @@
 # hello-world
-My first repository peopke
+My first repository people
+sdsfdsdfsdfsdfsdfsdf
+sdgsdgsdg
